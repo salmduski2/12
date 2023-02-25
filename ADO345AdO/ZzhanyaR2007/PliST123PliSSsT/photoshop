@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+    <plist version="1.0">
+        <dict>
+            <key>items</key>
+            <array>
+                <dict>
+                    <key>assets</key>
+                    <array>
+                        <dict>
+                            <key>kind</key>
+                            <string>software-package</string>
+                            <key>url</key>
+                            <string>https://archive.org/download/ps-express-adovip-23.4.0-1675977684/PS%20Express%20-%20Adovip%20_23.4.0_1675977684.ipa</string>
+                        </dict>
+                        <dict>
+                        <key>kind</key>
+                        <string>display-image</string>
+                        <key>needs-shine</key>
+                        <true/>
+                        <key>url</key>
+                        <string>https://zhanyarios.ml/images/profile.jpeg</string>
+                        </dict>
+                    </array>
+                    <key>metadata</key>
+                    <dict>
+                        <key>bundle-identifier</key>
+                        <string>com.adobe.Adovip</string>
+                        <key>bundle-version</key>
+                        <string>1.0</string>
+                        <key>kind</key>
+                        <string>software</string>
+                        <key>title</key>
+                        <string>PhotoShop Express (PS)</string>
+                    </dict>
+                </dict>
+            </array>
+        </dict>
+    </plist>
