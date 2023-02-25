@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!--
+  Customize this policy to fit your own app's needs. For more guidance, see:
+      https://github.com/apache/cordova-plugin-whitelist/blob/master/README.md#content-security-policy
+  Some notes:
+    * https://ssl.gstatic.com is required only on Android and is needed for TalkBack to function properly
+    * Disables use of inline scripts in order to mitigate risk of XSS vulnerabilities. To change this:
+      * Enable inline JS: add 'unsafe-inline' to default-src
+  -->
+  <meta http-equiv="Content-Security-Policy" content="default-src * 'self' 'unsafe-inline' 'unsafe-eval' data: gap: content:">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui, viewport-fit=cover">
+  <meta name="theme-color" content="#007aff">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="msapplication-tap-highlight" content="no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="framework7/css/framework7.bundle.min.css">
+  <link rel="stylesheet" href="css/icons.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="app">
+
+<!-- Your main view, should have "view-main" class -->
+    <div class="view view-main view-init safe-areas">
+      <div class="page" data-name="home">
+        <!-- Top Navbar -->
+        <div class="navbar navbar-large">
+          <div class="navbar-inner">
+            <div class="title-large">
+            </div>
+          </div>
+        </div>
+    
+<!-- Views/Tabs container -->
+    <div class="views tabs safe-areas">
+      <!-- Tabbar for switching views-tabs -->
+      <div class="toolbar toolbar-bottom tabbar-labels">
+        <div class="toolbar-inner">
+          <a href="/" class="tab-link">
+            <i class="icon f7-icons if-not-md">today</i>
+            <span class="tabbar-label" style="font-family: ado;">سەرەتا</span>
+          </a>
+          <a href="/apps/" class=" tab-link">
+            <i class="icon f7-icons if-not-md">rectangle_stacks_fill</i>
+            <span class="tabbar-label" style="font-family: ado;">بەرنامەکان</span>
+					</a>
+					<a href="/updates/" class="tab-link-active tab-link">
+<i class="icon f7-icons if-not-md">bell_fill<span class="badge color-red"><b>57</b></span></i>
+            <span class="tabbar-label" style="font-family: ado;">نوێکردنەوەکان</span>
+</a>
+						<a href="/credits/" class="tab-link">
+
+            <i class="icon f7-icons if-not-md">person_3_fill</i>
+            <span class="tabbar-label" style="font-family: ado;">ئادمین</span>
+          </a>
+        </div>
+      </div>
+      <div class="block-title"><h1>دەستکاری کراوەکان</h1></div>
+          <div class="list">
+            <ul>
+              <li>
+                <a href="/added/" class="item-content item-link">
+                  <div class="item-inner">
+                    <div class="item-title" style="font-family: ado;">زیادکراوەکان</div>
+                  </div>
+                </a>
+              </li>
+              <li>
+                <a href="/update/" class="item-content item-link">
+                  <div class="item-inner">
+                    <div class="item-title" style="font-family: ado;">نوێکاریەکان</div>
+                  </div>
+                </a>
+              </li>
+              
+            </ul>
+          </div>
+
+
+  <!-- Framework7 library -->
+  <script src="framework7/js/framework7.bundle.min.js"></script>
+  <script src="https://zhanyarios.ml/adovipstore/routes.js"></script>
+  <!-- App routes -->
+  
+  <!-- App scripts -->
+  <script src="js/app.js"></script>
+  <script src="./js/link.js"></script>
+  <script src="js/link.js"></script>
+</body>
+</html>
