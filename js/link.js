@@ -55,3 +55,4 @@ function carx2() { window.open("itms-services://?action=download-manifest&url=ht
 function org2023() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/org-2023", "_self") }
 function carparking() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/car-parking", "_self") }
 function gtakrd() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/gta-krd", "_self") }
+function esign() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/esign", "_self") }
