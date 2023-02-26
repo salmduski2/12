@@ -28,7 +28,7 @@ function picsart() { window.open("itms-services://?action=download-manifest&url=
 function alightmotion() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/alight-motion", "_self") }
 function lumafusion() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/luma-fusion", "_self") }
 function netflix() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/netflix", "_self") }
-function ppsspp() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/ppsspp", "_self") }
+function ppsspp() { window.open("itms-services://?action=download-manifest&url=https://saadnaman.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/ppsspp", "_self") }
 function photoshop() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/photoshop", "_self") }
 function quranmajeed() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/quran-majeed", "_self") }
 function tempoapp() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/tempo-app", "_self") }
@@ -55,4 +55,4 @@ function carx2() { window.open("itms-services://?action=download-manifest&url=ht
 function org2023() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/org-2023", "_self") }
 function carparking() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/car-parking", "_self") }
 function gtakrd() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/gta-krd", "_self") }
-function esign() { window.open("itms-services://?action=download-manifest&url=https://adovip.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/esign", "_self") }
+function esign() { window.open("itms-services://?action=download-manifest&url=https://saadnaman.store/ADO345AdO/ZzhanyaR2007/PliST123PliSSsT/esign", "_self") }
